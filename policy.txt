@@ -1,0 +1,31 @@
+Privacy policy
+
+General
+
+IoT based security Alarm is developed by umendra Pardhi.
+
+Privacy Policy ("Policy") describes how information obtained from users is collected, used and disclosed.
+
+By using IoT based security Alarm, you agree that your personal information will be handled as described in this Policy.
+
+The app has internet access for only login purpose, but it is not sending anything outside the device whatsoever.
+
+Information being collected
+
+Simple SMS Messenger does not collect any personal identifiable information.
+
+The 'READ_SMS' permission is used at reading sms from specific declared phone number (specially sms is received from IoT device) and not other phone numbers.
+
+The 'RECIEVE_SMS' permission is to receive sms and generate Notification when sms is Received.
+
+The app can access the sms only from specific phone number declared in app and not other phone numbers , but it is not being sent anywhere outside of the device.
+
+Changes to the Policy
+
+If the Policy changes, the modification date below will be updated. The Policy may change from time to time, so please be sure to check back periodically.
+
+Last modified: 24 April, 2022.
+
+Contact
+
+If you have any questions about the Policy, please contact me via utpardhi9@gmail.com
